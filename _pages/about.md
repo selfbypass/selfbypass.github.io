@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+You can find my CV here: [Curriculum Vitae](../files/lanyang_CV.pdf).
